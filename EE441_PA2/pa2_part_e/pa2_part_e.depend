@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1607496340 source:c:\users\asus\desktop\pa2_441 (copy)\pa2_part_e\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1607582460 source:c:\users\asus\desktop\pa2_441\pa2_part_e\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1607582460 source:c:\users\asus\desktop\pa2_441_v2\pa2_part_e\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+

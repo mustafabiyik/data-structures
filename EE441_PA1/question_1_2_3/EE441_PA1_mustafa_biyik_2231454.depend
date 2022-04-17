@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606067442 source:/home/mustafa/Desktop/EE441_PA1_mustafa_biyik_2231454/main.cpp
+	<iostream>
+	<fstream>
+
+1606067442 source:/home/mustafa/Desktop/question_1_2_3/main.cpp
+	<iostream>
+	<fstream>
+
+1606067442 source:/home/mustafa/Desktop/EE441_PA1_mustafa_biyik_2231454/question_1_2_3/main.cpp
+	<iostream>
+	<fstream>
+

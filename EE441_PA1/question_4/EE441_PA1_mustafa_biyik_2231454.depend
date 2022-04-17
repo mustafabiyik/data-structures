@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606072900 source:/home/mustafa/Desktop/EE441_PA1_mustafa_biyik_2231454/question_4/main.cpp
+	<iostream>
+	<fstream>
+
